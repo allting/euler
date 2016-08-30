@@ -19,6 +19,16 @@
 			<key>orderHint</key>
 			<integer>3</integer>
 		</dict>
+		<key>004.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>C004.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
 		<key>euler.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -43,6 +53,16 @@
 			<true/>
 		</dict>
 		<key>0F1F64FC1D731AA400EFCE01</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>0F1F65071D731AF000EFCE01</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>0F20CE101D755930002947F8</key>
 		<dict>
 			<key>primary</key>
 			<true/>
