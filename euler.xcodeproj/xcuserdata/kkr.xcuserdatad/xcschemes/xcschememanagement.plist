@@ -29,6 +29,11 @@
 			<key>orderHint</key>
 			<integer>5</integer>
 		</dict>
+		<key>C005.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
 		<key>euler.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -37,6 +42,11 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>0F1153461D77E8D6004DA72E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>0F1F64D81D7319FC00EFCE01</key>
 		<dict>
 			<key>primary</key>
