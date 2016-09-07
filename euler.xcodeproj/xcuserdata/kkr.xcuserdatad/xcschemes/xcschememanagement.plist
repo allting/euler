@@ -29,6 +29,11 @@
 			<key>orderHint</key>
 			<integer>7</integer>
 		</dict>
+		<key>006.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
 		<key>C004.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -83,6 +88,11 @@
 			<true/>
 		</dict>
 		<key>0F20CE101D755930002947F8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>0F5957571D8001AC00ED242F</key>
 		<dict>
 			<key>primary</key>
 			<true/>
